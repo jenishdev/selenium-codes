@@ -1,4 +1,4 @@
-package Ecomframe.EEframe;
+package cucudemo.democuc;
 
 /**
  * Hello world!
